@@ -23,13 +23,13 @@
 .contacts .contacts-list .tel:focus {
     color: #404BBF;
 }
-.link {color: #2E2F42; text-decoration: none; font-family: "Roboto", sans-serif;
+.link-list {color: #2E2F42; text-decoration: none; font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.32px;}
-.link:hover {color: #404BBF;}
-.link:focus {color: #404BBF;}
+.link-list:hover {color: #404BBF;}
+.link-list:focus {color: #404BBF;}
 
 
 .body {
