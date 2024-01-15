@@ -6,30 +6,28 @@
     line-height: 1.17;
     letter-spacing: 0.03em;}
 .logo-studio {color: #2E2F42;}
-.contacts .contacts-list .mail {color: #434455; text-decoration: none; font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.32px;}
-.tel {color: #434455; text-decoration: none; font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.32px;}
-.contacts {font-style: normal;}
-.contacts .contacts-list .mail:hover {color: #404BBF;}
-.contacts .contacts-list .tel:hover {color: #404BBF;}
-.contacts .contacts-list .mail:focus {
-    color: #404BBF;
-}
-.contacts .contacts-list .tel:focus {
-    color: #404BBF;
-}
-.link-list {color: #2E2F42; text-decoration: none; font-family: "Roboto", sans-serif;
+.link-list {
+    color: #2E2F42;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
+    letter-spacing: 0.32px;
+}
+.link-list:hover {
+    color: #404BBF;
+}
+.link-list:focus {
+    color: #404BBF;
+}
+.contacts .contacts-list {color: #434455; text-decoration: none; font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
     letter-spacing: 0.32px;}
-.link-list:hover {color: #404BBF;}
-.link-list:focus {color: #404BBF;}
+.contacts .contacts-list:hover {color: #404BBF;}
+.contacts .contacts-list:focus {color: #404BBF;}
+
 
 
 .body {
