@@ -6,7 +6,8 @@
     line-height: 1.17;
     letter-spacing: 0.03em;}
 .logo-studio {color: #2E2F42;}
-.link-list {
+.link-list {list-style: none;}
+.link {
     color: #2E2F42;
     text-decoration: none;
     font-family: "Roboto", sans-serif;
@@ -22,8 +23,8 @@
     color: #404BBF;
 }
 .contacts {font-style: normal;}
+.adress-list {list-style: none;}
 .contacts .contacts-list {color: #434455; text-decoration: none; font-size: 16px;
-    font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.32px;}
 .contacts .contacts-list:hover {color: #404BBF;}
@@ -46,6 +47,8 @@
 .first-section .button:hover {background-color: #404BBF}
 .first-section .button:focus {background-color: #404BBF}
 
+
+.features-list {list-style: none;}
 .second-section .features-list .section-title {
     color: #2E2F42;
     font-family: "Roboto", sans-serif;
@@ -77,17 +80,19 @@
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.4px;}
+.team-list {list-style: none;}
 .list-person {background-color: #FFFFFF;}
 .text-person {color: #434455; line-height: 1.5; letter-spacing: 0.02em}
 
 
-    .portfolio-title {color: #2E2F42; text-transform: capitalize;
+.portfolio-title {color: #2E2F42; text-transform: capitalize;
     font-family: "Roboto", sans-serif;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.72px;
     text-align: center;}
+.portfolio-list {list-style: none;}
 .portfolio-section {color: #2E2F42;
     font-family: "Roboto", sans-serif;
     font-size: 20px;
